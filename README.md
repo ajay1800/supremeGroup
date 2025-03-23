@@ -137,25 +137,6 @@ This will generate a `/dist` folder with the final build.
 
 ---
 
-## **🌎 Deploying the Project**  
-### **1️⃣ Deploy on Vercel**  
-Run:  
-```sh
-npm install -g vercel
-vercel
-```
-Follow the prompts to deploy.
-
-### **2️⃣ Deploy on Netlify**  
-Run:  
-```sh
-npm install -g netlify-cli
-netlify deploy
-```
-Follow the setup instructions.
-
----
-
 ## **🙌 Contributing**  
 Feel free to submit **pull requests** if you'd like to contribute! Make sure to:  
 1. Fork the repository  
